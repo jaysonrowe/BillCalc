@@ -6,3 +6,4 @@ C:\Users\jaysonr\Documents\Visual Studio 2012\Projects\BillCalc\BillCalc\obj\Rel
 C:\Users\jaysonr\Documents\Visual Studio 2012\Projects\BillCalc\BillCalc\obj\Release\BillCalc.csproj.GenerateResource.Cache
 C:\Users\jaysonr\Documents\Visual Studio 2012\Projects\BillCalc\BillCalc\obj\Release\BillCalc.exe
 C:\Users\jaysonr\Documents\Visual Studio 2012\Projects\BillCalc\BillCalc\obj\Release\BillCalc.pdb
+C:\Users\jaysonr\documents\visual studio 2012\Projects\BillCalc\BillCalc\obj\Release\BillCalc.csprojResolveAssemblyReference.cache
