@@ -1,0 +1,1 @@
+Simple Bill caculator - takes a beginnig balance and subtracts bills from it. Gives result in a message box.
