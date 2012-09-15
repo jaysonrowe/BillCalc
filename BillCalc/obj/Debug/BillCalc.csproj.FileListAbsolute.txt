@@ -1,0 +1,9 @@
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc\BillCalc\bin\Debug\BillCalc.exe.config
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc\BillCalc\bin\Debug\BillCalc.exe
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc\BillCalc\bin\Debug\BillCalc.pdb
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc\BillCalc\obj\Debug\BillCalc.csprojResolveAssemblyReference.cache
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc\BillCalc\obj\Debug\BillCalc.formCalc.resources
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc\BillCalc\obj\Debug\BillCalc.Properties.Resources.resources
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc\BillCalc\obj\Debug\BillCalc.csproj.GenerateResource.Cache
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc\BillCalc\obj\Debug\BillCalc.exe
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc\BillCalc\obj\Debug\BillCalc.pdb

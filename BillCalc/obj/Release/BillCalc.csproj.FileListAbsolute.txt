@@ -1,0 +1,8 @@
+C:\Users\jaysonr\Documents\Visual Studio 2012\Projects\BillCalc\BillCalc\bin\Release\BillCalc.exe.config
+C:\Users\jaysonr\Documents\Visual Studio 2012\Projects\BillCalc\BillCalc\bin\Release\BillCalc.exe
+C:\Users\jaysonr\Documents\Visual Studio 2012\Projects\BillCalc\BillCalc\bin\Release\BillCalc.pdb
+C:\Users\jaysonr\Documents\Visual Studio 2012\Projects\BillCalc\BillCalc\obj\Release\BillCalc.formCalc.resources
+C:\Users\jaysonr\Documents\Visual Studio 2012\Projects\BillCalc\BillCalc\obj\Release\BillCalc.Properties.Resources.resources
+C:\Users\jaysonr\Documents\Visual Studio 2012\Projects\BillCalc\BillCalc\obj\Release\BillCalc.csproj.GenerateResource.Cache
+C:\Users\jaysonr\Documents\Visual Studio 2012\Projects\BillCalc\BillCalc\obj\Release\BillCalc.exe
+C:\Users\jaysonr\Documents\Visual Studio 2012\Projects\BillCalc\BillCalc\obj\Release\BillCalc.pdb
