@@ -17,11 +17,6 @@ namespace BillCalc
             InitializeComponent();
         }
 
-        private void resultBox_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
-
         private void calcButton_Click(object sender, EventArgs e)
         {
             string balance =
