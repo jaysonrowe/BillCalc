@@ -20,9 +20,9 @@ namespace BillCalc
         private void calcButton_Click(object sender, EventArgs e)
         {
             string balance =
-            (Convert.ToDouble(balanceBox.Text) - Convert.ToDouble(rentBox.Text) - Convert.ToDouble(lightBox.Text) -
-             Convert.ToDouble(cableBox.Text) - Convert.ToDouble(waterBox.Text) - Convert.ToDouble(cellBox.Text) - Convert.ToDouble(carBox1.Text) -
-             Convert.ToDouble(carBox2.Text) - Convert.ToDouble(otherBox.Text)).ToString();
+            (Convert.ToDecimal(balanceBox.Text) - Convert.ToDecimal(rentBox.Text) - Convert.ToDecimal(lightBox.Text) -
+             Convert.ToDecimal(cableBox.Text) - Convert.ToDecimal(waterBox.Text) - Convert.ToDecimal(cellBox.Text) - Convert.ToDecimal(carBox1.Text) -
+             Convert.ToDecimal(carBox2.Text) - Convert.ToDecimal(otherBox.Text)).ToString();
             MessageBox.Show("$" + balance);
         }
     }
