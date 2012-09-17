@@ -19,13 +19,6 @@ namespace BillCalc
 
         private void calcButton_Click(object sender, EventArgs e)
         {
-            /*
-            string balance =
-            (Convert.ToDecimal(balanceBox.Text) - Convert.ToDecimal(rentBox.Text) - Convert.ToDecimal(lightBox.Text) -
-             Convert.ToDecimal(cableBox.Text) - Convert.ToDecimal(waterBox.Text) - Convert.ToDecimal(cellBox.Text) - Convert.ToDecimal(carBox1.Text) -
-             Convert.ToDecimal(carBox2.Text) - Convert.ToDecimal(otherBox.Text)).ToString();
-            MessageBox.Show("$" + balance);
-             * */
 
             string starting = balanceBox.Text;
             string rent = rentBox.Text;
